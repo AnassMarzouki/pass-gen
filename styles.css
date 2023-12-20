@@ -1,9 +1,16 @@
 body{
-    margin: 0;
-    max-width:min-content
+    background-color: #000000;
+    margin: 0; 
+    width: 100vh;
+    height:100vh;
+
+
+
 }
 
 div {
+    width: 100vh;
+    height:100vh;
     display:block;
     background-color: black;
     color:greenyellow;
